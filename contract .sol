@@ -25,7 +25,7 @@ contract FreezableToken is StandardToken {
 
     /**
      * @dev Gets the balance of the specified address without freezing tokens.
-     * @param _owner The address to query the the balance of.
+     * @param _owner The address to query the the balance of
      * @return An uint256 representing the amount owned by the passed address.
      */
     function actualBalanceOf(address 0x96eDa16fe882587e118EE4F4F96930CA6510cd42) public view returns (uint256 balance) {
